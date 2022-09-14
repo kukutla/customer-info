@@ -1,0 +1,26 @@
+
+.notes-list-wrapper {
+
+    padding: auto;
+    border-top: 5px;
+}
+.notes-list-wrapper  h1{
+    margin: 20px;
+    color: #2c2a1e;
+    margin-top: 100px;
+}
+
+
+.mx-2 {
+    margin-left: 0.5rem !important;
+  }
+
+  .text-success {
+    color: #28a745 !important;
+  }
+
+  .text-danger {
+    color: #dc3545 !important;
+  }
+  
+  
